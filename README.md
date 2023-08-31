@@ -1,1 +1,5 @@
-# introdu-o--javascript
+# introducao-javascript
+
+Equipe:Elaine-Brambila
+
+Professora:Elaine Brambila
